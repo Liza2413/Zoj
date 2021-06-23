@@ -1,0 +1,200 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+}
+
+body, html{
+    width: 100%;
+    height: 100%;
+}
+
+a{
+    text-decoration: none;
+    color: gray
+}
+
+h3{
+    color: black;
+    font-size: 25px
+}
+
+#top{
+    width: 100%;
+    height: 28%;
+    display: flex;
+    margin-bottom: 1%;
+    background-color: #9ACD32
+}
+.logo{
+    background-color: #e32929;
+    font-size: 25px;
+    width: 30%;
+    height: 82%;
+    margin-left: 8%;
+
+}
+
+.text_logo{
+    position: relative;
+    top: 30%;
+    left: 11.5%;
+    text-decoration: none;
+    color: white;
+    letter-spacing: 2.8px;
+    white-space: nowrap;
+    
+}
+
+.top{
+    display: flex;
+}
+
+.menu{
+    position: relative;
+    left: 20%
+}
+.bar{
+    display: flex;
+    position: relative;
+    top: 32%;
+    font-size: 19px
+}
+.bar li{
+    margin-right: 30%;
+    list-style-type: none;
+}
+.bar a:hover{
+    color: #e32929
+}
+
+#main{
+    width: 100%;
+    height: 1700px
+}
+#main h2{
+    font-size: 30px
+}
+#main span{
+    position: relative;
+    font-size: 20px;
+    color: #868F90;
+    line-height: 32px
+}
+.info1, .info2 ,.info3,.info5,.info6,.info7{
+    display: flex;
+    padding: 6px 5%;
+    margin-bottom: 2%
+}
+.info1_text{
+    width: 45%;
+    margin-left: 4%;
+}
+
+.info1_img img{
+    width: 703px;
+    
+}
+.info2_img img{
+    width: 703px;
+    
+}
+.info2_text{
+    width: 45%;
+
+}
+.info3_img img{
+    width: 703px;
+    
+}
+.info3_text{
+    width: 45%;
+    margin-left: 4%;
+}
+.info4_text{
+    width: 50%;
+    margin-right: 4%;
+}
+.info4_img img{
+    width: 120%;
+    height: 90%; 
+}
+.info4{
+    display: flex;
+    padding: 6px 5%;
+    height: 200px
+}
+#footer{
+    width: 100%;
+    height: 10%;
+    background-color: #9ACD32;
+    color: darkslategrey
+}
+#footer a{
+    color: darkslategrey;
+    text-decoration: underline;
+}
+.me{
+    position: relative;
+    margin-left: 10%;
+    top: 15%
+}
+.me img{
+    width: 1.5%;
+}
+
+
+
+#main2{
+    width: 100%;
+    height: 1900px
+}
+#main2 h2{
+    font-size: 30px
+}
+#main2 span{
+    position: relative;
+    font-size: 20px;
+    color: #868F90;
+    line-height: 32px
+}
+.info5_text{
+    text-align: center;
+    width: 50%;
+    position: relative;
+    left: 25%;
+    height: 40%;
+    
+}
+.info6_text{
+    width: 50%;
+}
+.info6_img img{
+    width:80%;
+    margin-left: 12%
+}
+
+
+
+
+.info8,.info9{
+    display: flex;
+    padding: 6px 15%;
+    margin-bottom: 2%
+}
+.info8{
+    text-align: center;
+}
+#main3{
+    width: 100%;
+    height: 1900px
+}
+#main3 h2{
+    font-size: 30px
+}
+#main3 span{
+    position: relative;
+    font-size: 20px;
+    color: #868F90;
+    line-height: 32px
+}
